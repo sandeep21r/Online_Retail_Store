@@ -1,0 +1,14 @@
+Dukaan 
+
+Database and Table management:
+    ●	 In the database of the Dukaan platform, we have created 6 entity tables and 6 relational entity tables containing the data regarding the user, the shop, the transaction, the product and the delivery unit. 
+
+    ●	Each database has its own primary and foreign keys(if necessary) and the constraints and indexes to each of the table is written.
+
+    ●	Each database has been index in order to make the traversal fast.
+
+    ●	There are derived attributes such as age and date of delivery assigned to the tables wherever necessary, such as the user table.
+
+    ●	Each table has been inserted with random but valid data processed in order to check the validity of written code and to traverse the data.
+    
+    ●	The random data is generated through an online data generator. (Random SQL Data Generator | CodersTool, https://filldb.info/).

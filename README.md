@@ -11,7 +11,7 @@ Scope:
         account/ID.
 
         The retail stores must also register on the online platform, and then they will get
-        their unique retailer ID. Each retail shop has a manager to keep track of all the
+     ![Alt text](<Screenshot (235).png>)   their unique retailer ID. Each retail shop has a manager to keep track of all the
         employee units working at their shops. Each shop has several units, such as a
         packaging unit, dispatching unit, accountancy unit, and data entry unit. Each unit
         performs a specific function to provide the User with the desired accessibility that he wants. The data entry unit receives each order the Customer places, and they will convey the same information to the packaging and dispatching unit to satisfy the Customer's needs. Then the delivery services provide the relationship between the stores and the Customer.
