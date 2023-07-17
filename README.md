@@ -38,6 +38,7 @@ Functionality:
         10. Add the amount to the wallet
         11. Coupons
         12. Customer care
+        
     ● Functionality is given to Retailer
         1. Login id/sign up
         2. Add product(show that they have the product in their store)
@@ -45,6 +46,7 @@ Functionality:
         4. Add Category only if they request to the application(Developer)
         5. Set Discount
         6. Customer Care
+
     ● Functionality is given to the Delivery boy
         1. Login id/Sign Up
         2. Search Delivery Request
