@@ -1,0 +1,72 @@
+Overview
+
+We have created an online database management system known as dukaan, which serves as a
+platform for retailers, shop owners and customers. It allows retailers to increase their gross income by putting their products in front of customers willing to buy them, nonetheless the distance. Also, it gives a platform to customers for a wide range of products they could not accept before. This database management platform provides retailers with extra income and creates employment opportunities for the people as a delivery unit department. This system manages the data of each product enlisted by each registered shop and maintains the transaction between the retailer and users. The system keeps track of every transaction and product. We have also managed the delivery unit as a separate part of the database since it allows us to track each delivery status and keep updating the customer.
+
+Features
+
+- Login/Signup :
+
+    1) The user should be able to log in or signup himself as a retailer, customer or a
+    delivery partner.
+    2) Each type of Signup requires the user to fill in the required fields and information
+    regarding the functionality they need.
+    3) Each type of login will lead the user to desired functionality they’d like to use.
+
+- Customer guide:
+
+    1) Unique Customer ID: After Login/Signup as a customer, the User will be
+    redirected to the Customers section of the database with his unique customer ID.
+
+    2) Product view: The user can interact with the product enlisted by the shops.
+
+    3) Add To Cart: The user can simultaneously select and add as many items to his
+    cart. (Items available are only shown in the list, such as those products which are
+    out of stock and are not visible to the customer)
+
+    4) Edit Cart: The user can edit their choices in the cart and buy the full cart at once
+    or buy one item at a time.
+
+    5) Buy Cart: The user can add money to his wallet since all of the transactions must
+    be made online so that we can keep track of every transaction.
+
+    6) Order details: The user can view his order details and the status of his
+    order(delivered or not).
+
+    7) He can surf through the hundred of products and make his choice.
+
+- Shop Guide:
+
+    1) Unique Shop ID: After registering the shop, each retailer will get a unique shop
+    id with which they can use their function as they want to.
+
+    2) List Product: A Retailer can enlist his product and its quantity with all the details and decide on the product category; if the category is not there, he can add it too.
+
+    3) Unique Product: Every Product will only be identified by its unique product ID
+    given to it after registration on the website.
+
+    4) Stock: Retailers can keep track of their products and restock them regularly.
+
+    5) Edit Product: The retailer can change the price and details of any previously
+    listed products.
+
+    6) Transaction Details: When someone purchases his product, he will get all the
+    transaction details and the money is transferred to his account as soon as the
+    transaction is done.
+
+- Delivery unit guide:
+
+    1) Unique License ID: After registering as a delivery partner on the website, each
+    person will get his unique license number ID representing them in the database.
+
+    2) Assigned shop: Each Delivery partner will be given deliveries regularly by the
+    shop assigned to them.
+
+    3) Order Details: They will be given the details of every order beforehand, and each
+    delivery will contribute a share of their monthly income.
+
+    4) Reassignment: If they cannot deliver a product for some reason (legit reason), a
+    new delivery partner will be assigned instantly as soon as they report it.
+
+    5) Update Status: They can change the status of the order detail and update the
+    order status for customer knowledge.
