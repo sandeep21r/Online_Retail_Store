@@ -1,0 +1,23 @@
+Trigger
+
+    Before insert
+
+        delimiter //
+        create trigger Price_verify
+        before insert on product_entity
+        for each row
+        if new.Price <= 0 then set new.Price = 0;
+        end if; //
+
+    Before update
+    
+        delimiter //
+        create trigger upd_cart
+        before update on cart_entity
+        for each row
+        begin
+        if new.T_Price is null then
+        set new.T_Price = 0.00;
+        end if;
+        end//
+        delimiter ;
