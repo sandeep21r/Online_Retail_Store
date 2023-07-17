@@ -2,7 +2,8 @@
 
 DBMS Project (Dukaan)
 
-Scope: Dukaan is an online application that allows users to buy their daily needs and
+Scope: 
+        Dukaan is an online application that allows users to buy their daily needs and
         groceries at the lowest price and in the shortest time possible. The User and the
         retailer are connected through the application and can achieve their individual goals.Each Customer will have their unique dukaan ID assigned after signup in the
         application. Then only an ID and password are necessary to log in again to the
@@ -25,6 +26,7 @@ Scope: Dukaan is an online application that allows users to buy their daily need
 Technical Requirements: MySQL, HTML, CSS, Flask framework, Python
 
 Functionality:
+
     ● Functionality is given to User
         1. Login id/sign up
         2. Browse Product
@@ -38,7 +40,7 @@ Functionality:
         10. Add the amount to the wallet
         11. Coupons
         12. Customer care
-        
+
     ● Functionality is given to Retailer
         1. Login id/sign up
         2. Add product(show that they have the product in their store)
